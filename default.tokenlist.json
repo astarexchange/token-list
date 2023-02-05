@@ -1,5 +1,5 @@
 {
-  "name": "Astar Exchange Default",
+  "name": "astarexchange",
   "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xEcC867DE9F5090F55908Aaa1352950b9eed390cD.png",
   "keywords": [
     "astarexchange",
@@ -13,7 +13,7 @@
       "name": "Wrapped ASTAR",
       "symbol": "WASTR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xEcC867DE9F5090F55908Aaa1352950b9eed390cD.png",
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xEcC867DE9F5090F55908Aaa1352950b9eed390cD.png"
     },
     {
       "chainId": 592,
@@ -21,7 +21,7 @@
       "name": "Polkadot",
       "symbol": "DOT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF.png",
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF.png"
     },
     {
       "chainId": 592,
@@ -45,7 +45,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png",
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
     },
     {
       "chainId": 592,
@@ -61,7 +61,7 @@
       "name": "Binance Coin",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png",
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
     },
     {
       "chainId": 592,
@@ -69,7 +69,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png",
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
     },
     {
       "chainId": 592,
@@ -77,7 +77,7 @@
       "name": "JPY Coin",
       "symbol": "JPYC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png",
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
     }
   ],
   "version": {
