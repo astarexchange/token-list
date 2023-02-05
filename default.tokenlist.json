@@ -78,6 +78,14 @@
       "symbol": "JPYC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+    },
+    {
+     "chainId": 592,
+     "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+     "name": "Wrapped Ether",
+     "symbol": "WETH",
+     "decimals": 18,
+     "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
     }
   ],
   "version": {
