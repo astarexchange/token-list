@@ -86,6 +86,14 @@
      "symbol": "WETH",
      "decimals": 18,
      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+    },
+    {
+      "chainId": 592,
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
     }
   ],
   "version": {
